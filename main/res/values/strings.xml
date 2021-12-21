@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BTMessenger</string>
+    <!-- Custom String -->
+    <string name="bluetooth_off_error">Bluetooth is OFF.\nPlease turn on the bluetooth and try again.</string>
+    <string name="no_paired_device_error">There is no paired device.\nPair the device and try again.</string>
+    <string name="open_socket_error">Failed to open chat room.\nPlease try again.</string>
+    <string name="socket_not_exist_error">The chat room does not exist.\nPlease try again later.</string>
+    <string name="device_error">Connection lost.\nPlease try again later.</string>
+    <string name="server_closed_error">This room is closed.\nThank you for using!</string>
+    <string name="message_field_hint">Type message</string>
+    <string name="menu_server_title">Host A Chat Room</string>
+    <string name="menu_server_sub_title">Establish A Room And Chat With Other.</string>
+    <string name="menu_client_title">Join The Chat</string>
+    <string name="menu_client_sub_title">Join The Room And Chat With Other.</string>
+    <string name="author_message">Hint: Pair your devices before hosting.\nChat offline, without internet!</string>
+    <string name="action_bar_name">Chat Room</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit</string>
+    <string name="close">Close</string>
+    <!-- Notification Message -->
+    <string name="notification_room_establish">The room is created.</string>
+    <string name="notification_self_enter">You are now entered the room.</string>
+    <string name="notification_enter">entered the room.</string>
+    <string name="notification_leave">left the room.</string>
+    <string name="send">Send</string>
+
+</resources>
